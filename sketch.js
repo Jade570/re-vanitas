@@ -317,7 +317,7 @@ if(i<20){
 
 
   ///////////////setting translateion///////////////
-  translate(100,0,-800+transz);
+  translate(0,0,-800+transz);
   rotateX(5.88);
   rotateX(rotx);
   rotateY(roty);
