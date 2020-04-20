@@ -1,0 +1,71 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: 'EB Garamond', serif;
+}
+canvas {
+  display: block;
+}
+
+button{
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  width : 55px;
+  height : 30px;
+  display: block;
+  border: none;
+}
+
+div{
+  color:white;
+  font-size:16px;
+}
+
+.notactive {
+  opacity : 0.6;
+}
+
+.basket {
+  background-color : #a17e68;
+}
+
+.laptop {
+  background-color : #926ca3;
+}
+
+.apple1{
+  background-color : #a65858;
+}
+
+.apple2{
+  background-color :#a15784;
+}
+
+.banana{
+  background-color : #d6b41a;
+}
+
+.pear{
+  background-color : #baa573;
+}
+
+.book{
+  background-color : #6882a1;
+}
+
+.books{
+  background-color : #6890a1;
+}
+
+.keyboard{
+  background-color : #68a18e;
+}
+
+.lamp{
+  background-color : #91a374;
+}
+
+.skull{
+  background-color : #9e9e9e;
+}
