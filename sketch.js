@@ -437,14 +437,14 @@ function keyPressed() {
         selected--;
         object[selected].toggle();
       } else if (selected < i) {
-        document.getElementById('txslider').value = object[selected + 1].x;
-        document.getElementById('tyslider').value = object[selected + 1].y;
-        document.getElementById('tzslider').value = object[selected + 1].z;
-        document.getElementById('rxslider').value = object[selected + 1].rx;
-        document.getElementById('ryslider').value = object[selected + 1].ry;
-        document.getElementById('rzslider').value = object[selected + 1].rz;
-        document.getElementById('shininessslider').value = object[selected + 1].sh;
-        document.getElementById('colorslider').value = object[selected + 1].colors;
+        document.getElementById('txslider').value = object[selected].x;
+        document.getElementById('tyslider').value = object[selected].y;
+        document.getElementById('tzslider').value = object[selected].z;
+        document.getElementById('rxslider').value = object[selected].rx;
+        document.getElementById('ryslider').value = object[selected].ry;
+        document.getElementById('rzslider').value = object[selected].rz;
+        document.getElementById('shininessslider').value = object[selected].sh;
+        document.getElementById('colorslider').value = object[selected].colors;
         object[selected].toggle();
       }
       i--;
