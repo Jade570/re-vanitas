@@ -1,5 +1,6 @@
 # re-vanitas
 A vanitas still art curating project for 2020-1 Computer Graphics @ Sogang Univ.
+
 Written in P5.js.
 
 ## Source Used
