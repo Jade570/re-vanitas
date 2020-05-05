@@ -3,6 +3,8 @@ A vanitas still art curating project for 2020-1 Computer Graphics @ Sogang Univ.
 
 Written in P5.js.
 
+[Link](https://jade570.github.io/re-vanitas/)
+
 ## Source Used
 ### 3D objects
   - book:["Book Texture" by mhartman](https://sketchfab.com/3d-models/book-texture-53624c51c9634fe9b74a2e5cdd4ffd3c)
