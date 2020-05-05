@@ -2,7 +2,6 @@
 A vanitas still art curating project for 2020-1 Computer Graphics @ Sogang Univ.
 
 Written in P5.js.
-
 [Link](https://jade570.github.io/re-vanitas/)
 
 ## Source Used
