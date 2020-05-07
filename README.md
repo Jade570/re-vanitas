@@ -23,7 +23,7 @@ Written in P5.js.
 - [Google Font EB Garamond](https://fonts.google.com/specimen/EB+Garamond)
 
 ## Concept
-```
+
 Vanitas was the still life artwork trend in 17th century, when Europe was suffering for tragic affairs.
 It asked the viewers about the uncertainty of life. Now human beings have made many nondecaying objects, thus leading the Earth to desolation.
 Furthermore, COVID-19 pandemic is killing too many people, thus making global society into total solemnity.
@@ -33,6 +33,6 @@ Fill your table with your worthy objects and skulls.
 Every objects will have plastic/metallic textures, which are nondecaying.
 With them, let’s ask ourselves again about the uncertainty of our lives, the life cycle of the objects we have made and use, and how we 
 are destroying our  living foundation.
-```
+
 
 
